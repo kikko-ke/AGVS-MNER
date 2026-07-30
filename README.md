@@ -146,8 +146,3 @@ Entity Recognition with Multiple Images.
 
 Please replace this entry with the final author list, venue, and bibliographic
 record once the paper is published.
-
-## License
-
-This repository currently does not include a license file. Please contact the
-authors before redistributing the code or derived artifacts.
