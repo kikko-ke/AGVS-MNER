@@ -1,0 +1,7 @@
+numpy
+Pillow
+pytorch-crf
+seqeval
+torch
+tqdm
+transformers
