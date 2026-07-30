@@ -65,8 +65,6 @@ AGVS-MNER/
 `-- README.md
 ```
 
-The `raw/` directory is an archived baseline snapshot and is not imported by
-the current training entry point.
 
 ## Data Preparation
 
